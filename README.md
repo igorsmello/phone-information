@@ -1,5 +1,3 @@
-# README
-
 <h1 align="center">Phone Information</h1><br><br><br>
 
 <h3 align="center">
